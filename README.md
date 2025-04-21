@@ -5,7 +5,7 @@ go to http://localhost:8080/rates?from=2025-04-15&to=2025-04-22 (`from` and `to`
 
 data will be updated every hour
 
-Reponse in json
+Response in JSON format:
 ```
 {
   "2025-04-20": [
